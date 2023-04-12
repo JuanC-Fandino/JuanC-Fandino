@@ -5,7 +5,7 @@ Engineer with the ability to successfully develop software for PC (Python, C ++)
 
 - 💬 Ask me about **Flask, Python, Unity and Spatial Audio 🎧**
 
-- 🌱 I want to learn **Swift and Django**
+- 🌱 I want to learn **Swift**
 
 - 📫 How to reach me **juancamilo1998@hotmail.com**
 
