@@ -9,7 +9,7 @@ Engineer with the ability to successfully develop software for PC (Python, C ++)
 
 - 📫 How to reach me **juancamilo1998@hotmail.com**
 
-- 🕹️ I took a course in [Game design and development in Unity](Game design and development in Unity)
+- 🕹️ I took a course in Game design and development in Unity
 
 - 🎞️ My favorite movie is **Interstellar 🚀**
 
