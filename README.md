@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Camilo! 🤓</h1>
 <h3 align="center">Sound Engineer 🎵 and Full Stack developer from Colombia 🇨🇴</h3>
 
-Engineer with the ability to successfully develop software for PC (Python, C ++) and mobile platforms (Android / Java), database management (MySQL), web development (including back-end with Python / Flask and Frontend using HTML, CSS and JavaScript) and implementation of machine learning algorithms (TensorFlow).
+Systems engineer with more than two years of experience in web development, data analysis, project management and development of desktop and mobile apps. Knowledge in multiple programming languages such as C#, Python, JS, TS, Kotlin and Java. Experience in design and maintenance of relational DBMS such as PostgreSQL, MySQL and SQL Server. Also, I have experience in document databases such as MongoDB and Firebase.
+
+On the other hand, I also have knowledge of various cloud platforms of infrastructure as a service (IaaS), such as AWS, Azure and Linode.
 
 - 💬 Ask me about **Flask, Python, Unity and Spatial Audio 🎧**
 
