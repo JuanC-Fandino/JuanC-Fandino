@@ -9,7 +9,7 @@ In the realm of database management, I have hands-on experience with relational 
 
 Moreover, I have worked with popular cloud platforms, including AWS, Azure, and Linode, gaining proficiency in infrastructure as a service (IaaS) technologies. This expertise enables me to develop and deploy applications in a cloud environment efficiently.
 
-- 💬 Ask me about **Flask, Python, Unity and Spatial Audio 🎧**
+- 💬 Ask me about **Django, Flask, Python, Unity and Spatial Audio 🎧**
 
 - 🌱 I want to learn **Swift**
 
